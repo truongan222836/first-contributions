@@ -1,3 +1,4 @@
+Đây là README được chỉnh sửa từ nhánh feature-update-B.
 Update from feature-update-A
 Đây là README được chỉnh sửa từ nhánh main và conflict-demo.
 
