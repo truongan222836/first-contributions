@@ -1,4 +1,3 @@
-Họ và tên:Pham Trương An
-Sở thích: Đọc sách, chơi thể thao
-Kỹ năng: Git, Python, giao tiếp
-
+Họ và tên: Pham Trương An
+Sở thích: Đọc sách, đi bộ, nghe nhạc
+Kỹ năng: Git, Python, teamwork
